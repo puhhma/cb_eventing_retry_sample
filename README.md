@@ -1,7 +1,7 @@
 # cb_eventing_retry_sample
 
 ## Usage
-Details can be found here: *ToDo: add link to blog*
+Usage details can be found in the **Couchbase Eventing Handling Errors and Retries** blog post: https://blog.couchbase.com/couchbase-eventing-handling-errors-and-retries/
 
 The **.js** files are for reference and contain the eventing logic
 
